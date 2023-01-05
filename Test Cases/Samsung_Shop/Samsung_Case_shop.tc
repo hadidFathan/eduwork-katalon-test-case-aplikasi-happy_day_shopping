@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mencoba utuk memesan tanpa membuka menu search</description>
+   <name>Samsung_Case_shop</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce90409b-4434-458a-bda0-ae9708c73ddc</testCaseGuid>
+</TestCaseEntity>
